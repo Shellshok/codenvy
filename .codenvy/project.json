@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{}},"description":"pruebas del tutorial de java","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
